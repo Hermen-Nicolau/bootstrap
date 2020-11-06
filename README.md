@@ -1,2 +1,2 @@
 # bootstrap
-Repo use to save my bootstrap code from Nucamp bootcamp 
+Repo I will be using to my bootstrap code from Nucamp bootcamp 
